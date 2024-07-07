@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Oranienbaum';
+    src: url('https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap" rel="stylesheet');
+}
+
+:root   {
+    --main-font: 'Oranienbaum', serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #DEB785;
+    scrollbar-width: none;
+}

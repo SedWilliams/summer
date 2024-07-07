@@ -1,0 +1,19 @@
+.searchbar {
+    width: 80%;
+    height: 50px;
+    background-color: #f2f2f2;
+    border-radius: 25px;
+    display: flex;
+    border: none;
+    margin-bottom: 4rem;
+}
+
+.searchbar input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 25px;
+    padding: 0 20px;
+    font-size: 1.2rem;
+    font-family: 'Oranienbaum', sans-serif;
+}
