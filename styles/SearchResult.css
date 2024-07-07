@@ -1,0 +1,18 @@
+.search-result_container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 4rem;
+    margin: 2rem 0rem;
+}
+
+.search-result {
+    background-color: #F2C791;
+    padding: 6rem;
+    width: 10rem;
+    height: 10rem;
+    transition: transform 0.25s ease-in-out;
+}
+
+.search-result:hover {
+    transform: scale(1.1);
+}
